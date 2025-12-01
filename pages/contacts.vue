@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const resumeUrl = new URL(
-  "~/assets/Mohammed-Lateef-Resume.pdf",
+  "~/assets/mohammed-Lateef-Resume.pdf",
   import.meta.url
 ).href;
 </script>

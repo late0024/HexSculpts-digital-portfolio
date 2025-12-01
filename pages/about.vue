@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import profileImg from "~/assets/MohammedLateef.jpg";
+import profileImg from "~/assets/mohammedLateef.jpg";
 </script>
 
 <template>
@@ -17,8 +17,8 @@ import profileImg from "~/assets/MohammedLateef.jpg";
           </p>
           <p>
             I'm all about creating things that feel real and lived-in. Sometimes
-            that means sculpting expressive characters, and other times it
-            means engineering big physical builds—like slicing, doweling, and
+            that means sculpting expressive characters, and other times it means
+            engineering big physical builds—like slicing, doweling, and
             assembling complex props for printing. I enjoy every part of the
             workflow, from concept to final render or real-world print.
             HexSculpts is the creative name fellow 3D peers know me by and it is
