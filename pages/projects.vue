@@ -3,7 +3,7 @@ import { computed, ref } from "vue";
 import laceImage from "~/assets/lace.jpg";
 import sakuraImage from "~/assets/sakura.jpg";
 import shutaraImage from "~/assets/shutara.jpg";
-import raniaImage from "~/assets/Rania.jpg";
+import raniaImage from "~/assets/rania.jpg";
 import notificationsImage from "~/assets/notifications.png";
 import seussImage from "~/assets/seussAPI.png";
 import tshirtsImage from "~/assets/t-shirts.png";
